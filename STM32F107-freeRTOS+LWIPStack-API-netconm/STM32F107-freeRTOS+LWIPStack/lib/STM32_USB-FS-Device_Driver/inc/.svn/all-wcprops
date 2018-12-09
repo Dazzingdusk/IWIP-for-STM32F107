@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc
+END
+usb_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_regs.h
+END
+usb_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_type.h
+END
+otgd_fs_pcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/otgd_fs_pcd.h
+END
+usb_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_init.h
+END
+otgd_fs_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/otgd_fs_int.h
+END
+usb_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_lib.h
+END
+usb_sil.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_sil.h
+END
+usb_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_core.h
+END
+otgd_fs_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/otgd_fs_dev.h
+END
+usb_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_int.h
+END
+otgd_fs_cal.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/otgd_fs_cal.h
+END
+otgd_fs_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/otgd_fs_regs.h
+END
+usb_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_def.h
+END
+usb_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/prj/fm415/!svn/ver/89/02%E7%B3%BB%E7%BB%9F%E7%BB%9F%E8%AE%A1/07%E4%B8%8B%E4%BD%8D%E6%9C%BA%E8%AE%BE%E8%AE%A1/STM32F107_Controller/lib/STM32_USB-FS-Device_Driver/inc/usb_mem.h
+END
